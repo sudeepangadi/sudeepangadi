@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudeep Angadi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Data SCience,Angular,Web Development**
+- 🌱 I’m currently learning **Data Science,Angular,Web Development**
 
 - 💬 Ask me about **C,JAVA,8051 Microcontroller**
 
