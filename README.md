@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudeep Angadi</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-🔭 I’m currently working on Web Development. 
+🔭 I’m currently working on VLSI. 
 
-🌱 I’m currently learning Verilog, VLSI,Java Script, Angular,MySQL. 
+🌱 I’m currently learning Verilog, VLSI. 
 
-💬 Ask me about Verilog, Microcontroller.
+💬 Ask me about Verilog, Microcontroller, Web Development
 
 📫 How to reach me sudeepangadi1935@gmail.com
 
