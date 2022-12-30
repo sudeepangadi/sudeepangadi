@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudeep Angadi</h1>
-<h3 align="center">A VLSI engineer </h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
-🔭 I’m currently working on VLSI. 
-
-🌱 I’m currently learning Verilog, VLSI. 
+🔭 I’m currently learning Full Stack Web Development. 
 
 💬 Ask me about Verilog, Microcontroller, Web Development
 
