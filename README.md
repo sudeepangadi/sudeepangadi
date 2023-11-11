@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudeep Angadi</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">VLSI Enthusiast</h3>
 
-🔭 I’m currently learning Full Stack Web Development. 
+🔭 I’m trainee at VLSI FOR ALL as RTL Design and Verification Trainee. 
 
-💬 Ask me about Verilog, Microcontroller, Web Development
+💬 Ask me about Verilog, System Verilog, UVM, Functional Coverage.
 
-📫 How to reach me sudeepangadi1935@gmail.com
+📫 How to reach me sudeep.ece.rymec@gmail.com
 
 ⚡ Fun fact EC student.
 
